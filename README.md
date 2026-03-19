@@ -11,9 +11,6 @@ The goal is to take raw FHIR JSON and present it in a way that’s easier to rea
 2. Start the app:
    npm start
 
-3. Open in browser:
-   http://localhost:3001/
-
  Notes
 
 - This is an early POC, not a production-ready tool.
